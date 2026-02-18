@@ -1,0 +1,882 @@
+outer .region,
+
+footer .group,
+
+.post fieldset fieldset,
+fieldset fieldset {
+    background: none;
+}
+
+body,
+.group,
+.group .group,
+.region,
+.flash,
+fieldset,
+fieldset fieldset ul,
+form dl,
+textarea,
+
+main .verbose legend,
+
+.verbose fieldset,
+.notice,
+ul.notes,
+input,
+textarea,
+table,
+th,
+td:hover,
+tr:hover,
+.symbol .question:hover,
+
+modal,
+
+.ui-sortable li,
+.required .autocomplete,
+.autocomplete .notice,
+.system .intro,
+.comment_error,
+.kudos_error,
+div.dynamic,
+.dynamic form,
+
+ui-datepicker-div,
+
+.ui-datepicker table {
+    color: #eee;
+    border-color: #151619;
+    outline: #111;
+    box-shadow: none;
+}
+
+form .notice,
+form ul.notes {
+    box-shadow: none;
+}
+
+workskin {
+
+    font-size: 1.2em;
+    margin: auto;
+    padding: 0 0.25em;
+    max-width: 60em;
+    overflow-x: auto;
+    overflow-y: hidden;
+    position: relative;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+.actions input,
+input[type="submit"],
+button,
+.current,
+.actions label {
+    border-radius: 0;
+}
+
+header ul.primary,
+
+outer #footer,
+
+.toggled form {
+    background: #1a1b1f;
+}
+
+header .primary {
+
+    background: none;
+    padding: 10px 0;
+    width: 100%;
+    box-shadow: none;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff {
+    background: #1a1b1f !important;
+}
+
+.user.navigation.actions>li {
+    margin-top: 0.3em !important;
+}
+
+header .menu,
+
+small_login {
+
+    border: 1px solid #1f2126;
+    box-shadow: none;
+    padding: 0;
+}
+
+.tags.group,
+.more.group {
+    margin-top: 0.6em;
+}
+
+header .actions a:hover,
+
+header .actions a:focus,
+
+header .dropdown:hover a,
+
+header .open a,
+
+header .menu,
+
+small_login,
+
+.group.listbox,
+fieldset fieldset.listbox,
+form blockquote.userstuff,
+input:focus,
+textarea:focus,
+li.relationships a,
+.group.listbox .index,
+.dashboard fieldset fieldset.listbox .index,
+
+dashboard a:hover,
+
+th,
+
+dashboard .secondary,
+
+.secondary,
+.thread .even,
+.system .tweet_list li,
+.ui-datepicker tr:hover {
+    background: #151619;
+}
+
+.userstuff p {
+    text-align: justify;
+    margin: 1.286em auto;
+    padding: 0;
+    line-height: 1.5;
+}
+
+.tags.commas {
+    margin: 1.5em auto;
+}
+
+header .dropdown .menu a:hover,
+
+header .dropdown .menu a:focus,
+
+.splash .favorite li:nth-of-type(odd) a,
+.ui-datepicker td:hover,
+
+tos_prompt .heading,
+
+tos_prompt [disabled] {
+
+    background: #22262a;
+}
+
+outer,
+
+.javascript,
+.statistics .index li:nth-of-type(even),
+
+tos_prompt,
+
+.announcement input[type="submit"] {
+    background: #151619;
+}
+
+.filters .submit input {
+    border: 1px solid #202227;
+    background-color: #202227;
+    height: 110%;
+    margin: 1em 0;
+    min-height: 2.286em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    white-space: normal;
+}
+
+header ul.primary,
+
+footer,
+
+dashboard ul,
+
+dl.meta,
+.group.listbox,
+fieldset fieldset.listbox,
+
+main li.blurb,
+
+form blockquote.userstuff,
+div.comment,
+li.comment,
+.toggled form,
+form dl dt,
+form.single fieldset,
+
+inner .module .heading,
+
+.bookmark .status span,
+.splash .news li,
+.filters .group dt.bookmarker {
+    border-color: #1a1b1f;
+}
+
+.work.navigation.actions {
+    width: 100%;
+}
+
+dl.meta {
+    border: none;
+}
+
+.splash .news li {
+    padding: 1em;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff {
+    padding: 1em;
+}
+
+.logged-in .splash>.module {
+    width: 100% !important;
+}
+
+dl.meta {
+    max-width: 75em;
+    margin: auto;
+    clear: right;
+    padding: 2em 1.75em;
+    position: relative;
+    overflow: hidden;
+}
+
+.group.listbox,
+fieldset fieldset.listbox,
+
+main li.blurb,
+
+.wrapper,
+
+dashboard .secondary,
+
+.secondary,
+form blockquote.userstuff,
+.thread .comment,
+.toggled form {
+    box-shadow: none;
+}
+
+dashboard .current,
+
+.actions a:active,
+
+outer .current,
+
+a.current,
+.current a:visited,
+span.unread,
+.replied,
+span.claimed,
+dl.index dd,
+.own,
+.draft,
+.draft .unread,
+.child,
+.unwrangled,
+.unreviewed,
+.ui-sortable li:hover {
+    background: #1a1b1f;
+    border-color: #1f2126;
+}
+
+greeting .menu {
+
+    right: 0;
+    border: 1px solid #1f2126;
+    box-shadow: none;
+}
+
+select {
+    background-color: #202227;
+    color: #fff;
+    border: 1px solid #202227;
+    min-height: 3em;
+    border-radius: 0;
+    padding: 0 0.6em;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    background: #202227;
+}
+
+body,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown {
+    background: #202227;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+footer a:hover,
+
+footer a:focus,
+
+.autocomplete .dropdown ul li:hover,
+.autocomplete .dropdown li.selected,
+a.tag:hover,
+.listbox .heading a.tag:visited:hover,
+.symbol .question,
+.qtip-content {
+    background: #a7a7a7;
+    color: #111;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus {
+    background: #a7a7a7;
+    color: #111;
+}
+
+header #greeting img,
+
+header .heading a,
+
+header .heading a:visited,
+
+header .user a:hover,
+
+header .user a:focus,
+
+header fieldset,
+
+header form,
+
+header p,
+
+dashboard a:hover,
+
+.actions a:hover,
+.actions input:hover,
+.delete a,
+span.delete,
+span.unread,
+.replied,
+span.claimed,
+.draggable,
+.droppable,
+span.requested,
+a.work,
+.blurb h4 a:link,
+.blurb h4 img,
+.splash .module h3,
+.splash .browse li a:before,
+.required,
+.error,
+.comment_error,
+.kudos_error,
+a.cloud7,
+a.cloud8,
+
+tos_prompt .heading {
+
+    color: #a7a7a7;
+}
+
+header .menu li {
+
+    border-bottom: 1px solid #2c2c2c;
+    margin: 0;
+    text-align: left;
+}
+
+greeting .icon,
+
+dashboard,
+
+dashboard.own,
+
+.error,
+.comment_error,
+.kudos_error,
+.LV_invalid,
+.LV_invalid_field,
+input.LV_invalid_field:hover,
+input.LV_invalid_field:active,
+textarea.LV_invalid_field:hover,
+textarea.LV_invalid_field:active,
+.qtip-content {
+    border-color: #151619;
+}
+
+dashboard.own {
+
+    border: none;
+}
+
+form.filters dl {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.filters .expander:focus {
+    outline: none;
+}
+
+.filters .expander {
+    padding: 0.45em 0 0.45em 14px;
+}
+
+.filters .group dt.search,
+.filters .range dt {
+    padding: 1.25em 0 0.4em 0;
+}
+
+a.tag {
+    border-bottom: 1px dotted !important;
+}
+
+a,
+a:link,
+a.tag,
+
+header a,
+
+header a:visited,
+
+header .primary .open a,
+
+header .primary .dropdown:hover a,
+
+header .primary .dropdown a:focus,
+
+header #search input:focus,
+
+header #search input:hover,
+
+dashboard a,
+
+dashboard span,
+
+dashboard .current,
+
+.heading,
+.group .heading,
+.filters dt a:hover {
+    color: #fff;
+}
+
+header .dropdown .menu a {
+
+    padding: .75em .5em .75em;
+}
+
+header #search .text {
+
+    background: #151619 !important;
+    border-radius: 0;
+    margin: 0.2857em 0.429em;
+}
+
+a:visited,
+.actions a:visited,
+.action a:link,
+.action a:visited,
+.listbox .heading a:visited,
+span.series .divider {
+    color: #999;
+}
+
+a:active,
+a:focus,
+button:focus {
+    outline: none;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+.actions input,
+input[type="submit"],
+button,
+.current,
+.actions label,
+
+header .actions a {
+
+    background: #23252a;
+    border-color: #23252a;
+    color: #eee;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+.actions a:hover,
+.actions input:hover,
+
+dashboard a:hover,
+
+.actions a:focus,
+.actions input:focus,
+
+dashboard a:focus {
+
+    color: #fff;
+    border-color: #101214;
+    box-shadow: none;
+    background-color: #101214;
+}
+
+.actions a:active,
+.current,
+a.current,
+.current a:visited {
+    color: #fff;
+    background: #101214;
+    border-color: #101214;
+    box-shadow: none;
+}
+
+.delete a,
+span.delete {
+    box-shadow: none;
+}
+
+ul.required-tags,
+.bookmark .status span,
+.blurb .icon {
+    opacity: 0.9;
+    border: 0;
+}
+
+outer .group .heading,
+
+header .actions a,
+
+fieldset.listbox .heading,
+.userstuff .heading,
+.heading,
+.userstuff h2 {
+    text-shadow: none;
+    color: #fff;
+    background: none;
+}
+
+header .actions a,
+
+fieldset fieldset,
+.mce-container button,
+.filters .expander {
+    box-shadow: none;
+}
+
+fieldset fieldset.listbox {
+    outline: none;
+}
+
+form dd.required {
+    color: #eee;
+}
+
+.mce-container input:focus {
+    background: #F3EFEC;
+}
+
+.announcement .userstuff a,
+.announcement .userstuff a:link,
+.announcement .userstuff a:visited:hover {
+    color: #fff;
+}
+
+a,
+a:link,
+a:visited:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.announcement .userstuff a:visited {
+    color: #666;
+}
+
+.announcement .userstuff a:hover,
+.announcement .userstuff a:focus {
+    color: #999;
+}
+
+.event.announcement .userstuff a,
+.filters .expander {
+    color: #eee;
+}
+
+form.verbose legend,
+.verbose form legend {
+    background: #151619;
+}
+
+.listbox li.blurb {
+    box-shadow: none;
+    background: #1a1b1f;
+}
+
+li.blurb,
+fieldset,
+form dl {
+    border: none;
+}
+
+li.blurb,
+.blurb .blurb {
+    display: block;
+    position: relative;
+    clear: left;
+    padding: 1em 1.4em;
+    overflow: visible;
+    background: #1a1b1f;
+}
+
+dashboard ul {
+
+    float: none;
+    display: block;
+    padding: 0.26em 0;
+    text-align: right;
+    position: relative;
+    background: none;
+}
+
+user-fandoms {
+
+    padding: 1.4em 0;
+    background: #1a1b1f;
+}
+
+.listbox .index {
+    padding: 0.6em 0;
+}
+
+.bookmark div.user {
+    background-color: #151619;
+}
+
+.bookmark dl.stats {
+    margin-bottom: 1.5em;
+    margin-top: 1.5em;
+}
+
+.dashboard .own,
+.comment span.unreviewed {
+    background: #1a1b1f;
+    opacity: 1.0;
+}
+
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed {
+    background: #1a1b1f;
+    opacity: 0.95;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+.actions input,
+input[type="submit"],
+button,
+.current,
+.actions label {
+    padding: 0.5em 1em;
+    border-radius: 0;
+}
+
+header {
+
+    margin: 0 0 3em;
+}
+
+.tags.group,
+.more.group {
+    padding: 0.6em;
+}
+
+dashboard a,
+
+dashboard span {
+
+    line-height: 2.2;
+    padding: 0 0.5em;
+}
+
+.listbox>.heading,
+.listbox .heading a:visited {
+    margin-left: .6em;
+}
+
+.listbox,
+fieldset fieldset.listbox {
+    border: 1px solid #1a1b1f;
+    margin: 0.5em auto;
+    box-shadow: none;
+}
+
+.reading .user {
+    margin-top: 1.5em;
+    padding-top: 0.5em;
+    border-top: 1px solid #23252a !important;
+}
+
+.comment .userstuff {
+    background-color: #1a1b1f !important;
+}
+
+input,
+textarea {
+    box-shadow: none;
+    background: #151619;
+    padding: 0.4em;
+}
+
+.filters .indicator:before {
+    background: #404248;
+    color: #aaa;
+    display: inline-block;
+    border: 1px solid #404248;
+    margin-right: 0.25em;
+    background-image: none;
+}
+
+.filters [type="checkbox"]+.indicator:before {
+    padding: 0 0.25em;
+    border-radius: 2px;
+}
+
+.filters [type="checkbox"]:checked+.indicator:before {
+    background: #970000;
+    color: #ffffff;
+    background-image: none;
+}
+
+.filters input:checked+.indicator:before {
+    border-color: #1a1b1f;
+}
+
+.filters input:checked+.indicator+span {
+    font-weight: 500;
+}
+
+.filters .exclude [type="checkbox"]:checked+.indicator:before {
+    background: #970000;
+    color: #ffffff;
+    background-image: none;
+}
+
+.filters [type="radio"]:checked+.indicator:before {
+    background: #970000;
+    background-image: none;
+}
+
+ui-datepicker-div,
+
+.ui-datepicker table {
+    background: #1a1b1f;
+}
+
+.ui-datepicker td {
+    border: 1px solid #23252a;
+}
+
+.notice,
+.comment_notice,
+.kudos_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash {
+    background: #2e3138;
+    border: 1px solid #2e3138;
+    margin: 0.6em auto;
+    padding: 1em;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.listbox .index {
+    padding: 0.6em;
+    box-shadow: none;
+}
+
+dl.meta {
+    max-width: 75em;
+    background: #1a1b1f;
+    margin-top: 1em;
+}
+
+dl.index dd {
+    background: #151619 !important;
+}
+
+form.search input[type="text"] {
+    border-top-color: #151619;
+    background-color: #202227;
+    padding: 0.45em 0.45em;
+    border-radius: 0;
+}
+
+modal {
+
+    background: #1a1b1f;
+    border: 10px solid #1a1b1f;
+    margin: 3% 0;
+    max-width: 800px;
+    min-width: 200px;
+    padding-bottom: 44px;
+    position: relative;
+    text-align: left;
+    width: 80%;
+    z-index: 501;
+}
+
+.post .meta dd ul li {
+    display: block;
+    padding-bottom: 0.6em;
+}
+
+workskin {
+
+    font-size: 1.2em;
+    max-width: 52em;
+}
+
+div.comment,
+li.comment {
+    padding: 0.6em;
+    background: #1a1b1f !important;
+}
