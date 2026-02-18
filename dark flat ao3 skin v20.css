@@ -88,9 +88,9 @@ outer #footer,
     background: #1a1b1f;
 }
 
-header .primary {
+#header .primary {
 
-    background: none;
+    background: 1a1b1f;
     padding: 10px 0;
     width: 100%;
     box-shadow: none;
@@ -124,18 +124,13 @@ small_login {
     margin-top: 0.6em;
 }
 
-header .actions a:hover,
-
-header .actions a:focus,
-
-header .dropdown:hover a,
-
-header .open a,
-
-header .menu,
-
-small_login,
-
+/*background color for dropdown menu and dashboard buttons on hover*/
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .menu,
+#small_login,
 .group.listbox,
 fieldset fieldset.listbox,
 form blockquote.userstuff,
@@ -144,13 +139,9 @@ textarea:focus,
 li.relationships a,
 .group.listbox .index,
 .dashboard fieldset fieldset.listbox .index,
-
-dashboard a:hover,
-
+#dashboard a:hover,
 th,
-
 dashboard .secondary,
-
 .secondary,
 .thread .even,
 .system .tweet_list li,
@@ -158,6 +149,7 @@ dashboard .secondary,
     background: #151619;
 }
 
+/*text-align dictates how your fic text aligns*/
 .userstuff p {
     text-align: justify;
     margin: 1.286em auto;
@@ -284,7 +276,10 @@ form blockquote.userstuff,
     box-shadow: none;
 }
 
-dashboard .current,
+/*color of selected button on your dashboard*/
+dashboard .current {
+    background: #1a1b1f;
+}
 
 .actions a:active,
 
@@ -416,7 +411,7 @@ greeting .icon,
 
 dashboard,
 
-dashboard.own,
+dashboard.own
 
 .error,
 .comment_error,
@@ -431,8 +426,8 @@ textarea.LV_invalid_field:active,
     border-color: #151619;
 }
 
-dashboard.own {
-
+#dashboard.own {
+    background: 1a1b1f;
     border: none;
 }
 
@@ -483,9 +478,9 @@ dashboard span,
 dashboard .current,
 
 .heading,
-.group .heading,
 .filters dt a:hover {
     color: #fff;
+    background: 1a1b1f;
 }
 
 header .dropdown .menu a {
@@ -882,4 +877,3 @@ li.comment {
     padding: 0.6em;
     background: #1a1b1f !important;
 }
-
